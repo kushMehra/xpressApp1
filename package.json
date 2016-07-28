@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kushMehra/xpressApp2.git"
+    "url": "https://github.com/kushMehra/xpressApp1.git"
   },
   "keywords": [
     "express",
@@ -19,7 +19,7 @@
   "author": "kushMehra",
   "license": "GNU",
   "bugs": {
-    "url": "https://github.com/kushMehra/xpressApp2/issues"
+    "url": "https://github.com/kushMehra/xpressApp1/issues"
   },
-  "homepage": "https://github.com/kushMehra/xpressApp2"
+  "homepage": "https://github.com/kushMehra/xpressApp1”
 }
